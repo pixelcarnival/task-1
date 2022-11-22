@@ -1,0 +1,17 @@
+{
+  "name": "TASK-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "keywords": [
+    "webpack",
+    "rollup"
+  ],
+  "author": "Vitaliy Miles",
+  "license": "ISC"
+}
